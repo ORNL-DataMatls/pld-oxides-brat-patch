@@ -1,0 +1,9 @@
+Patch that will allow you to duplicate our PLD Oxide crowd sourcing tool.
+
+
+git clone https://github.com/nlplab/brat.git
+cd brat
+git checkout 004d0c7fde4435a9b2bfa7a530d1080b5a05cf13
+git apply DataMatls.patch
+
+
